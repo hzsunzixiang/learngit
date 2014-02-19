@@ -13,3 +13,4 @@ in master conflict in iss53
 in master rebase
 in branch rebase
 and
+another conflict in master
