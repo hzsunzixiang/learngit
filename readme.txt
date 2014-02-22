@@ -14,3 +14,5 @@ in master rebase
 in branch rebase
 and
 another conflict in rebase
+user1 hacked
+Hello.
